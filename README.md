@@ -10,5 +10,5 @@ Step -3 :  pip install .
 
 Step -4 : Download yolov10 pretrained weights from official repo (https://github.com/THU-MIG/yolov10)
 
-
+labels and paths are defined in data.yaml
 
